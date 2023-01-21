@@ -1,6 +1,6 @@
 import os
 from pathlib import Path
-from PyQt5 import QtWidgets, QtGui, QtCore
+from PyQt5 import QtWidgets
 
 class FileManager(QtWidgets.QWidget):
     def __init__(self):
